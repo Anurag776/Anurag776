@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Anurag776
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Anurag776/Anurag776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in new technologies like AI, ML
+- 🌱 I’m currently learning Full stack web developement 
+- 💞️ I’m looking to collaborate on new and innovative buissness models related to IT  
+- 📫 You can reach me out on my linkedin profile www.linkedin.com/in/anurag-agarwal776
