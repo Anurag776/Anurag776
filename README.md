@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anurag776
+- 👋 Hi, I’m @Anurag
 - 👀 I’m interested in new technologies like AI, ML
 - 🌱 I’m currently learning Full stack web developement 
 - 💞️ I’m looking to collaborate on new and innovative buissness models related to IT  
